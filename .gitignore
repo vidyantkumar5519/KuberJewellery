@@ -18,6 +18,7 @@ yarn-error.log*
 # Output directories
 dist/
 build/
+.next/
 
 # Dependency directories
 jspm_packages/
